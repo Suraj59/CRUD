@@ -2,7 +2,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/Suraj59/CRUD">
-    <img src="/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/images/logo1.png" alt="Logo" width="80" height="80">
+    <img src="/images/logo2.png" alt="Logo" width="80" height="80">
+    <img src="/images/logo3.png" alt="Logo" width="80" height="80">
+    <img src="/images/logo4.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">✨Curd_Assignment✨</h3>
