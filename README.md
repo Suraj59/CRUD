@@ -21,11 +21,9 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Features](#features)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [TODO](#todo)
 * [Contact](#contact)
 
 
@@ -33,13 +31,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]]
 <h3 align="center">✨A beautiful and a mordern web-app using Angular 8 and Node.✨</h3>
-
-### Features
-
-### Built With
-✅ 
 
 ### Built With
 
@@ -49,7 +41,7 @@
 * [Node](https://nodejs.org/en/)
 * [Mongodb](https://www.mongodb.com/)
 
-<h3 align="center">✨Pure CRUD app (no added dependancies)✨</h3>
+<h3 align="center">✨Pure CRUD APP✨</h3>
 
 
 <!-- GETTING STARTED -->
@@ -86,6 +78,12 @@ npm start
 
 <!-- USAGE  -->
 ## Usage
+API - POST,GET,PUT,DELETE
+1. /adduser - POST
+2. /getuser - GET
+3. /removeuser/:id DELETE
+4. /getOneUser/:id GET
+5. /updateuser/:id PUT
 
 <h4>. 🟢   Live Example (Production Build):</h4>
 
